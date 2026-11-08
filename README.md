@@ -12,4 +12,4 @@ So I made this.
 
 A sky full of stars, fireworks, and a place to send a wish.
 
-**Made in honour of us -- by AR☆ **
+Made in honour of us -- by AR☆ 
