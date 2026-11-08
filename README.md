@@ -13,3 +13,10 @@ So I made this.
 A sky full of stars, fireworks, and a place to send a wish.
 
 Made in honour of us -- by AR☆ 
+
+
+![Diwali Night](screenshots/Main.png)
+
+![Make a wish](screenshots/Wish.png)
+
+![Send it off](screenshots/Wish-cracker.png)
