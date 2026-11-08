@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Diwali Night</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="sky" tabindex="0" role="img" aria-label="A night sky over open fields. Fireworks rise and burst. Tap anywhere to light a rocket."></canvas>
+<p id="hint">Tap the sky to light a rocket. Sound begins with your first tap.</p>
+<button id="wishBtn" type="button" aria-label="Make a wish">ace☆</button>
+<form id="wishPanel" hidden autocomplete="off">
+  <label for="wishText" class="vh">Your wish</label>
+  <textarea id="wishText" maxlength="140" rows="3" placeholder="Make a wish…"></textarea>
+  <div class="row"><button type="button" id="wishCancel">Cancel</button><button type="button" id="wishSend">Send the wish</button></div>
+</form>
+<script src="script.js"></script>
+</body>
+</html>
