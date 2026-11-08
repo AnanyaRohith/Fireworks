@@ -2,7 +2,7 @@
 
 I haven't celebrated Diwali with my person in four years.
 
-The last time we celebrated together was in 2022, back in our native. I still remember rushing out at 11:30, setting everything up, making sure we were ready for midnight. The whole point was to light the 10k wala the moment the clock hit 00:00.
+The last time we celebrated together was in 2022, back in our native. I still remember rushing out at 23:30, setting everything up, making sure we were ready for midnight. The whole point was to light the 10k wala the moment the clock hit 00:00.
 
 It's one of those memories that stays with you.
 
@@ -15,8 +15,8 @@ A sky full of stars, fireworks, and a place to send a wish.
 Made in honour of us -- by AR☆ 
 
 
-![Diwali Night](screenshots/Main.png)
+![Diwali Night](Main.png)
 
-![Make a wish](screenshots/Wish.png)
+![Make a wish](Wish.png)
 
-![Send it off](screenshots/Wish-cracker.png)
+![Send it off](Wish-cracker.png)
